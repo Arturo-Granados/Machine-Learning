@@ -18,4 +18,5 @@ By
 * CRISP-DM: Organizing a successful machine learning project
 * Training and selecting machine learning models
 * Performing model validation
+
 Homework #1
