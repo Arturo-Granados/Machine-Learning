@@ -6,7 +6,7 @@ My code from the Machine Learning Bookcamp.
 
 By
 
-[https://datatalks.club](https://datatalks.club)
+* [https://datatalks.club](https://datatalks.club)
 
 <img src="images/Bookcamp.png" />
 
