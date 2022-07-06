@@ -1,6 +1,6 @@
 # Machine-Learning
 
-My code from the Machine Learning Bookcamp.
+My homework code from the Machine Learning Bookcamp.
 
 * [https://mlbookcamp.com](https://mlbookcamp.com)
 
@@ -18,3 +18,4 @@ By
 * CRISP-DM: Organizing a successful machine learning project
 * Training and selecting machine learning models
 * Performing model validation
+Homework #1
