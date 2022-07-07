@@ -19,7 +19,7 @@ By
 * Training and selecting machine learning models
 * Performing model validation
 
-[Homework #1](Homework #1.ipynb)
+[Homework #1](Homework#1.ipynb)
 
 
 ## Chapter 2: Machine Learning for Regression
